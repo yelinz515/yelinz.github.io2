@@ -40,6 +40,8 @@
     "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
   },
   "scripts": {
+    "create": "gatsby-post-gen",
+    "deploy": "gatsby build && gh-pages -d public -b master -r 'git@github.com:yelinz515/yelinz515.github.io.git'",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",

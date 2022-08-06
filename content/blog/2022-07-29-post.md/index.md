@@ -1,6 +1,6 @@
 ---
-title: [6주차] React Intro - 5일차
-date: "2022-07-29"
+title: "[6주차] React Intro - 5일차"
+date: "2022-07-29T23:41:32.169Z"
 category: blog
 ---
 

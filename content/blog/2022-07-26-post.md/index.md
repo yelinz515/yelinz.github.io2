@@ -1,6 +1,6 @@
 ---
-title: [6주차] underbar - 2일차
-date: "2022-07-26"
+title: "[6주차] underbar - 2일차"
+date: "2022-07-26T23:41:32.169Z"
 category: blog
 ---
 

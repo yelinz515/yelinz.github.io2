@@ -1,6 +1,6 @@
 ---
-title: [7주차] React State & Props - 2일차
-date: "2022-08-02"
+title: "[7주차] React State & Props - 2일차"
+date: "2022-08-02T23:41:32.169Z"
 category: blog
 ---
 

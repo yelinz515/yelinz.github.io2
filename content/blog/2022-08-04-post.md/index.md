@@ -1,6 +1,6 @@
 ---
-title: [7주차] [HTTP/네트워크] 기초 - 4일차
-date: "2022-08-04"
+title: "[7주차] [HTTP/네트워크] 기초 - 4일차"
+date: "2022-08-04T23:41:32.169Z"
 ---
 
 ## ☑️ Client Server Architecture

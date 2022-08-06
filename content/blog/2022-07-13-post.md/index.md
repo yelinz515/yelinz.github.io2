@@ -1,6 +1,6 @@
 ---
-title: [4주차] [JavaScript] 핵심 개념과 주요 문법 - 3일차
-date: "2022-07-13"
+title: "[4주차] [JavaScript] 핵심 개념과 주요 문법 - 3일차"
+date: "2022-07-13T23:41:32.169Z"
 category: blog
 ---
 

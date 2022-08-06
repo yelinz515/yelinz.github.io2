@@ -1,6 +1,6 @@
 ---
-title: [5주차] [JavaScript] TODAY 블로깅 - 5일차
-date: "2022-07-22"
+title: "[5주차] [JavaScript] TODAY 블로깅 - 5일차"
+date: "2022-07-22T23:41:32.169Z"
 category: blog
 ---
 

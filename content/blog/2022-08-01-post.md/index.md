@@ -1,6 +1,6 @@
 ---
-title: [7주차] React SPA - 1일차
-date: "2022-08-01"
+title: "[7주차] React SPA - 1일차"
+date: "2022-08-01T23:41:32.169Z"
 category: blog
 ---
 

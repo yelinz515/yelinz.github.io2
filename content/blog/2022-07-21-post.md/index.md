@@ -1,6 +1,6 @@
 ---
-title: [5주차] [JavaScript] 고차 함수 - 4일차
-date: "2022-07-21"
+title: "[5주차] [JavaScript] 고차 함수 - 4일차"
+date: "2022-07-21T23:41:32.169Z"
 category: blog
 ---
 

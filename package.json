@@ -29,7 +29,8 @@
   },
   "devDependencies": {
     "gatsby-post-gen": "^1.0.0",
-    "prettier": "^2.7.1"
+    "prettier": "^2.7.1",
+    "webpack-config-utils": "^2.3.1"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
@@ -38,7 +39,7 @@
   "license": "0BSD",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "https://github.com/yelinz515/yelinz515.github.io.git"
   },
   "scripts": {
     "create": "gatsby-post-gen",

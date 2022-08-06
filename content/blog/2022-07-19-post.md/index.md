@@ -1,6 +1,6 @@
 ---
-title: [5주차] Coz' Mini Hackathon - 2일차
-date: "2022-07-19"
+title: "[5주차] Coz' Mini Hackathon - 2일차"
+date: "2022-07-19T23:41:32.169Z"
 category: blog
 ---
 

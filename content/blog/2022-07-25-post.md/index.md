@@ -1,6 +1,6 @@
 ---
-title: [6주차] [JavaScript] 프로토타입 체인 - 1일차
-date: "2022-07-25"
+title: "[6주차] [JavaScript] 프로토타입 체인 - 1일차"
+date: "2022-07-25T23:41:32.169Z"
 category: blog
 ---
 

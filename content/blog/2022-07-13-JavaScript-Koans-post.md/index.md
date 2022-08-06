@@ -1,6 +1,6 @@
 ---
 title: JavaScript Koans
-date: "2022-07-13"
+date: "2022-07-13T23:41:32.169Z"
 category: blog
 image:  07.jpg #upload?
 ---

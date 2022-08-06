@@ -25,7 +25,7 @@ draft: false
 우리는 메뉴판을 api로 예를 들었다.
 **알아보기 쉽고 잘 작성된 메뉴판**이 필요한데, 이 역할을 API가 수행해야 하므로 모두가 잘 알아볼 수 있도록 작성하는 것이 중요하다.
 
-![]({{ site.baseurl }}/images/rapi-m.PNG)
+![Chinese Salty Egg](./rapi-m.PNG)
 
 ### ✔️ REST 성숙도 모델 - 0단계
 
@@ -41,7 +41,7 @@ CRUD에 맞게 적절한 HTTP 메서드를 사용하는 것에 중점
 
 API를 작성할 때, REST 성숙도 모델의 2단계까지 적용하면 대체적으로 잘 작성된 API라고 할 수 있다.
 
-![]({{ site.baseurl }}/images/BP.PNG)
+![Chinese Salty Egg](./BP.PNG)
 
 * Read(GET)
 * Create(POST)

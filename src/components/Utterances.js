@@ -14,7 +14,7 @@ class Utterances extends React.Component {
     scriptEl.onerror = () => this.setState({ status: 'failed' })
     scriptEl.async = true
     scriptEl.src = 'https://utteranc.es/client.js'
-    scriptEl.setAttribute('repo', 'sungchul-p/blog-comments')
+    scriptEl.setAttribute('repo', 'yelinz515/blog-comments')
     scriptEl.setAttribute('issue-term', 'title')
     scriptEl.setAttribute('theme', 'github-light')
     scriptEl.setAttribute('crossorigin', 'anonymous')

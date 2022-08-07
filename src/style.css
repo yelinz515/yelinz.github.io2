@@ -85,6 +85,7 @@ body {
 
 footer {
   padding: var(--spacing-6) var(--spacing-0);
+  font-family: var(--font-heading);
 }
 
 hr {
@@ -201,7 +202,8 @@ blockquote {
   margin-left: calc(-1 * var(--spacing-6));
   margin-right: var(--spacing-8);
   padding: var(--spacing-0) var(--spacing-0) var(--spacing-0) var(--spacing-6);
-  border-left: var(--spacing-1) solid var(--color-primary);
+  border-left: var(--spacing-1) solid darkgray;
+  /* background: #f0f0f0; */
   font-size: var(--fontSize-2);
   font-style: italic;
   margin-bottom: var(--spacing-8);
@@ -231,11 +233,17 @@ table thead tr th {
 
 a {
   color: var(--color-primary);
+  text-decoration-line: none;
 }
 
 a:hover,
 a:focus {
-  text-decoration: none;
+  color:#fff;
+  animation:sunday 5s 2s infinite alternate;
+  -webkit-animation:sunday 5s infinite alternate;
+  -moz-animation:sunday 5s infinite alternate;
+  -o-animation:sunday 5s infinite alternate;
+  -ms-animation:sunday 5s infinite alternate;
 }
 
 /* Custom classes */
@@ -266,6 +274,7 @@ a:focus {
 
 .post-list-item p {
   margin-bottom: var(--spacing-0);
+  font-family:var(--font-heading);
 }
 
 .post-list-item h2 {
@@ -284,6 +293,19 @@ a:focus {
   font-family: var(--font-heading);
   text-decoration: none;
   font-size: var(--fontSize-2);
+  color:#5393ff;
+}
+
+@keyframes sunday{
+  0%{color:#ff0053;}
+  12%{color:#ff5353;}
+  24%{color:#ffcf53;}
+  36%{color:#e8ff53;}
+  48%{color:#53ff5d;}
+  60%{color:#53ffbc;}
+  72%{color:#5393ff;}
+  84%{color:#ca53ff;}
+  100%{color:#ff53bd;}
 }
 
 .bio {
@@ -293,6 +315,7 @@ a:focus {
 
 .bio p {
   margin-bottom: var(--spacing-0);
+  font-family:var(--font-heading);
 }
 
 .bio-avatar {
@@ -311,12 +334,38 @@ a:focus {
   font-family: var(--font-heading);
 }
 
+.blog-post-nav {
+  margin: var(--spacing-0);
+  margin-bottom: var(--spacing-10);
+}
+
 .blog-post-nav ul {
   margin: var(--spacing-0);
 }
 
+/* .blog-post-nav li {
+  background-color: gainsboro;
+} */
+
+.blog-post-nav a {
+  font-family: var(--font-heading);
+  color: var(--color-heading);
+  background-color: #f0f0f0;
+  padding: 7px 16px 8px;
+  border-radius: 6px;
+  opacity: .8;
+}
+
+.blog-post p, strong {
+  font-family: var(--font-heading);
+}
+
 .gatsby-highlight {
   margin-bottom: var(--spacing-8);
+}
+
+.gatsby-highlight li, strong{
+  font-family: var(--font-heading);
 }
 
 /* Media queries */

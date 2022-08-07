@@ -15,7 +15,7 @@ underbar 라는 과제를 하는 이유는 고차함수에 대해 더욱 깊게 
 * _.filter, _.map, _.reduce, _.foreach를 직접 만들어 callback
 
 ### ✔️ _.foreach
-> forEach() 메서드는 주어진 함수를 배열 요소 각각에 대해 실행
+> `forEach()` 메서드는 주어진 함수를 배열 요소 각각에 대해 실행
 
 ```js
 arr.forEach(callback(currentvalue[, index[, array]])[, thisArg])

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 07 Aug 2022 04:47:54 GMT</lastBuildDate><item><title><![CDATA[블로그 마이그레이션 성공!!!😜(수정)]]></title><description><![CDATA[Jekyll에서 Gatsby로 블로그 마이그레이션을 성공했다. error가 많았지만 포기하지 않고 해결했다…😳 (자세한 설명은 나중에..ㅎ) 🐽 마무리 React…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-08-06-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-08-06-post.md/</guid><pubDate>Sat, 06 Aug 2022 23:41:32 GMT</pubDate><content:encoded>&lt;p&gt;Jekyll에서 Gatsby로 블로그 마이그레이션을 성공했다.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 07 Aug 2022 05:02:44 GMT</lastBuildDate><item><title><![CDATA[블로그 마이그레이션 성공!!!😜(수정)]]></title><description><![CDATA[Jekyll에서 Gatsby로 블로그 마이그레이션을 성공했다. error가 많았지만 포기하지 않고 해결했다…😳 (자세한 설명은 나중에..ㅎ) 🐽 마무리 React…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-08-06-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-08-06-post.md/</guid><pubDate>Sat, 06 Aug 2022 23:41:32 GMT</pubDate><content:encoded>&lt;p&gt;Jekyll에서 Gatsby로 블로그 마이그레이션을 성공했다.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;error가 많았지만 포기하지 않고 해결했다…😳&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;(자세한 설명은 나중에..ㅎ)&lt;/p&gt;
@@ -805,85 +805,7 @@ console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cl
 &lt;/blockquote&gt;
 &lt;p&gt;section2의 첫 시작이었는데, section1보다 살짝 난이도가 어려워졌고, 학습 이후 처음으로 시간이 부족하다고 느꼈다.&lt;/p&gt;
 &lt;p&gt;❤️진짜 정신차리고 열심히 하자!!❤️&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;꾸준히 자기주도적 학습을 하고 새롭게 알게 된 내용을 바탕으로 TIL를 작성하겠습니다.&lt;/strong&gt; 😊&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[5주차] 기술 면접 - 3일차]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-20-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-20-post.md/</guid><pubDate>Wed, 20 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h2&gt;✨ 기술 면접 준비하기&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;: &lt;strong&gt;개발자로서 기술적 직무 역량을 충분히 갖추었는지 판단하는 모든 면접 형태&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;br&gt;
-&lt;h2&gt;☑️ 기술 면접 종류&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;이력서 기반 질문형&lt;/li&gt;
-&lt;li&gt;기본 개념 질문형&lt;/li&gt;
-&lt;li&gt;알고리즘 문제 해결형&lt;/li&gt;
-&lt;li&gt;간단한 실무 문제 해결형&lt;/li&gt;
-&lt;li&gt;미니 프로젝트 제작형&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;☑️ 기술 면접의 목표&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;나랑 같이 개발할 수 있을까?&lt;/li&gt;
-&lt;li&gt;정말 잘 아는가?&lt;/li&gt;
-&lt;li&gt;정말 잘 하는가?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;잘 이해하고 잘 말해야 한다.
-내가 정말 잘 아는지, 잘하는지 간단명료하게 설명하기 위해&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;한 문장 요약 + 자세한 설명 or 경험&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;🔹 두괄식으로 말하는 것이 좋다!&lt;/p&gt;
-&lt;p&gt;기계처럼 정확하게 말하려는 것보다 더듬더듬 말해도 자신이 잘 아는 것에 대해 잘 설명하는 것이 더 중요하다고 생각했습니다.&lt;/p&gt;
-&lt;br&gt;
-&lt;h2&gt;☑️ 기술 모의 면접 학습법&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;제시되는 단답형 질문이나 본인이 작성한 프로젝트 기술 면접 질문에 대한 짧은 정답을 작성한다.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h5&gt;&lt;/h5&gt;
-&lt;ol start=&quot;2&quot;&gt;
-&lt;li&gt;예상되는 꼬리 질문을 스스로 준비한다.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h5&gt;&lt;/h5&gt;
-&lt;ol start=&quot;3&quot;&gt;
-&lt;li&gt;단답형 질문과 꼬리 질문에 대해 설명하기 위한 풍부한 사례를 자신의 언어로 준비한다.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;br&gt;
-&lt;h2&gt;📍 고른 질문에 대한 답변을 글로 작성하기&lt;/h2&gt;
-&lt;p&gt;✅ 클로저에 대해서 설명해주세요.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;클로저는 함수와 함수가 선언된 어휘적 환경의 조합입니다&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;🔹 어휘적 환경이 뭐죠?
-
-함수가 선언된 주변 환경을 의미합니다.
-주로 외부 함수(outer function)의 변수가 내부 함수(inner function)의 어휘적 환경에 포함됩니다. 그래서 내부 함수가 리턴되어도 나중에 클로저의 어휘적 환경에 접근하여 외부 함수의 변수에 접근할 수 있습니다.
-
-🔹 그래서 클로저를 언제 쓰나요?
-
-클로저는 사실 자바스크립트의 어떤 함수든 가지고 있습니다. 어떤 함수든 전역 변수에 접근할 수 있기 때문입니다. 그래서 언제나 쓰이고 있습니다.
-
-자바스크립트에서 private 메서드를 구현하기 위해서도 클로저를 활용할 수 있습니다. 클로저 내에 있는 변수는 외부에서 접근할 수 없기 때문에, 클로져 내에 있는 변수를 활용 할 수 있는 private 메서드만 따로 노출시켜서 인터페이스처럼 사용할 수 있게 됩니다.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;중요한 포인트를 2~3개 선정하여 꼬리 질문에 대응하고, 답변 마지막에 다시 정리해서 지금까지 했던 내용을 말하면 좋습니다.&lt;/p&gt;
-&lt;p&gt;🔹 &lt;strong&gt;정리하면, 클로저는 함수와 함수가 선언된 어휘적 환경의 조합이며 특히 private 메서드 구현을 위해 알아야 하는 개념입니다.&lt;/strong&gt;&lt;/p&gt;
-&lt;br&gt;
-&lt;h2&gt;☑️ 면접 답변을 직접 녹화하고 스스로 피드백&lt;/h2&gt;
-&lt;p&gt;면접 답변의 키워드만 적거나 답변을 보면서, 카메라를 보고 답변합니다.&lt;/p&gt;
-&lt;p&gt;더 나아가 면접 질문만 적어놓고, 카메라를 보고 답변합니다.&lt;/p&gt;
-&lt;br&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;셀프 체크리스트&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;✔️ 잘 모르는 내용에 대해서 모르는 부분을 인정하고 아는 부분까지는 최선을 다해 설명하려고 노력했나요?&lt;/p&gt;
-&lt;p&gt;✔️ 추측성 단어(~같아요.)가 아닌, 자신감 있는 단어(~입니다.)로 답변하고 있나요?&lt;/p&gt;
-&lt;p&gt;✔️ 한 번 들었을 때, 이해하기 쉬운 답변인가요?&lt;/p&gt;
-&lt;p&gt;✔️ 몸을 베베 꼬거나 다른 데를 보거나 하는 나쁜 자세를 취하지 않았나요?&lt;/p&gt;
-&lt;p&gt;✔️ 질문을 잘 이해하고, 질문의 요지에 정확하게 답변했나요?&lt;/p&gt;
-&lt;p&gt;✔️ 해당 개념 설명이 간단 명료한가요?&lt;/p&gt;
-&lt;p&gt;✔️ 개념 설명과 예시가 단순 암기가 아니라 자신의 언어로 충분히 풀어 설명 되었나요?&lt;/p&gt;
-&lt;p&gt;✔️ 두괄식으로 개념을 설명하고, 그에 따른 예시를 풀어서 설명하고 있나요?&lt;/p&gt;
-&lt;p&gt;✔️ 개념 활용 예시가 구체적이고 풍부했나요?&lt;/p&gt;
-&lt;p&gt;✔️ 잘 모르는 내용에 대해서 불명확하게 설명한 부분이 있었나요?&lt;/p&gt;
-&lt;p&gt;✔️ 정확한 CS 용어(ex. 변수를 만들어서 값을 넣어요. → 변수를 선언하고 값을 할당합니다. 등) 를 사용해서 답변했나요?&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;👍👍👍 셀프 체크리스트를 참고해서 연습해보자!&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Section1 회고]]></title><description><![CDATA[목표 꾸준한 자기주도학습 고연봉 받는 개발자 T자로 커리어 관리 🚀 Keep: 만족스러운 부분, 계속 이어가면 좋을 부분 깃허브 블로그를 매일 작성하려고 노력했다. 게시물을 업로드하면 contribute…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-20-section1-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-20-section1-post.md/</guid><pubDate>Wed, 20 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h1&gt;목표&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;꾸준히 자기주도적 학습을 하고 새롭게 알게 된 내용을 바탕으로 TIL를 작성하겠습니다.&lt;/strong&gt; 😊&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Section1 회고]]></title><description><![CDATA[목표 꾸준한 자기주도학습 고연봉 받는 개발자 T자로 커리어 관리 🚀 Keep: 만족스러운 부분, 계속 이어가면 좋을 부분 깃허브 블로그를 매일 작성하려고 노력했다. 게시물을 업로드하면 contribute…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-20-section1-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-20-section1-post.md/</guid><pubDate>Wed, 20 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h1&gt;목표&lt;/h1&gt;
 &lt;hr&gt;
 &lt;ul&gt;
 &lt;li&gt;꾸준한 자기주도학습&lt;/li&gt;
@@ -914,7 +836,85 @@ console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cl
 &lt;blockquote&gt;
 &lt;p&gt;🧐 Problem1. 아침에 일찍 일어나는게 너무 힘들었다.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;7시간 정도 수면을 해야 한다고 생각하기 때문에, 8시에 일어나기 위해 새벽 1시 전에는 반드시 잠자리에 들겠다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[5주차] Coz' Mini Hackathon - 2일차]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-19-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-19-post.md/</guid><pubDate>Tue, 19 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h2&gt;☑️ 나만의 아고라 스테이츠 만들기&lt;/h2&gt;
+&lt;p&gt;7시간 정도 수면을 해야 한다고 생각하기 때문에, 8시에 일어나기 위해 새벽 1시 전에는 반드시 잠자리에 들겠다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[5주차] 기술 면접 - 3일차]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-20-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-20-post.md/</guid><pubDate>Wed, 20 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h3&gt;✨ 기술 면접 준비하기&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;: &lt;strong&gt;개발자로서 기술적 직무 역량을 충분히 갖추었는지 판단하는 모든 면접 형태&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+&lt;h3&gt;☑️ 기술 면접 종류&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;이력서 기반 질문형&lt;/li&gt;
+&lt;li&gt;기본 개념 질문형&lt;/li&gt;
+&lt;li&gt;알고리즘 문제 해결형&lt;/li&gt;
+&lt;li&gt;간단한 실무 문제 해결형&lt;/li&gt;
+&lt;li&gt;미니 프로젝트 제작형&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;☑️ 기술 면접의 목표&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;나랑 같이 개발할 수 있을까?&lt;/li&gt;
+&lt;li&gt;정말 잘 아는가?&lt;/li&gt;
+&lt;li&gt;정말 잘 하는가?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;잘 이해하고 잘 말해야 한다.
+내가 정말 잘 아는지, 잘하는지 간단명료하게 설명하기 위해&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;한 문장 요약 + 자세한 설명 or 경험&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;🔹 두괄식으로 말하는 것이 좋다!&lt;/p&gt;
+&lt;p&gt;기계처럼 정확하게 말하려는 것보다 더듬더듬 말해도 자신이 잘 아는 것에 대해 잘 설명하는 것이 더 중요하다고 생각했습니다.&lt;/p&gt;
+&lt;br&gt;
+&lt;h3&gt;☑️ 기술 모의 면접 학습법&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;제시되는 단답형 질문이나 본인이 작성한 프로젝트 기술 면접 질문에 대한 짧은 정답을 작성한다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5&gt;&lt;/h5&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;예상되는 꼬리 질문을 스스로 준비한다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5&gt;&lt;/h5&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;단답형 질문과 꼬리 질문에 대해 설명하기 위한 풍부한 사례를 자신의 언어로 준비한다.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;br&gt;
+&lt;h3&gt;📍 고른 질문에 대한 답변을 글로 작성하기&lt;/h3&gt;
+&lt;p&gt;✅ 클로저에 대해서 설명해주세요.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;클로저는 함수와 함수가 선언된 어휘적 환경의 조합입니다&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;🔹 어휘적 환경이 뭐죠?
+
+함수가 선언된 주변 환경을 의미합니다.
+주로 외부 함수(outer function)의 변수가 내부 함수(inner function)의 어휘적 환경에 포함됩니다. 그래서 내부 함수가 리턴되어도 나중에 클로저의 어휘적 환경에 접근하여 외부 함수의 변수에 접근할 수 있습니다.
+
+🔹 그래서 클로저를 언제 쓰나요?
+
+클로저는 사실 자바스크립트의 어떤 함수든 가지고 있습니다. 어떤 함수든 전역 변수에 접근할 수 있기 때문입니다. 그래서 언제나 쓰이고 있습니다.
+
+자바스크립트에서 private 메서드를 구현하기 위해서도 클로저를 활용할 수 있습니다. 클로저 내에 있는 변수는 외부에서 접근할 수 없기 때문에, 클로져 내에 있는 변수를 활용 할 수 있는 private 메서드만 따로 노출시켜서 인터페이스처럼 사용할 수 있게 됩니다.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;중요한 포인트를 2~3개 선정하여 꼬리 질문에 대응하고, 답변 마지막에 다시 정리해서 지금까지 했던 내용을 말하면 좋습니다.&lt;/p&gt;
+&lt;p&gt;🔹 &lt;strong&gt;정리하면, 클로저는 함수와 함수가 선언된 어휘적 환경의 조합이며 특히 private 메서드 구현을 위해 알아야 하는 개념입니다.&lt;/strong&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h3&gt;☑️ 면접 답변을 직접 녹화하고 스스로 피드백&lt;/h3&gt;
+&lt;p&gt;면접 답변의 키워드만 적거나 답변을 보면서, 카메라를 보고 답변합니다.&lt;/p&gt;
+&lt;p&gt;더 나아가 면접 질문만 적어놓고, 카메라를 보고 답변합니다.&lt;/p&gt;
+&lt;br&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;셀프 체크리스트&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;✔️ 잘 모르는 내용에 대해서 모르는 부분을 인정하고 아는 부분까지는 최선을 다해 설명하려고 노력했나요?&lt;/p&gt;
+&lt;p&gt;✔️ 추측성 단어(~같아요.)가 아닌, 자신감 있는 단어(~입니다.)로 답변하고 있나요?&lt;/p&gt;
+&lt;p&gt;✔️ 한 번 들었을 때, 이해하기 쉬운 답변인가요?&lt;/p&gt;
+&lt;p&gt;✔️ 몸을 베베 꼬거나 다른 데를 보거나 하는 나쁜 자세를 취하지 않았나요?&lt;/p&gt;
+&lt;p&gt;✔️ 질문을 잘 이해하고, 질문의 요지에 정확하게 답변했나요?&lt;/p&gt;
+&lt;p&gt;✔️ 해당 개념 설명이 간단 명료한가요?&lt;/p&gt;
+&lt;p&gt;✔️ 개념 설명과 예시가 단순 암기가 아니라 자신의 언어로 충분히 풀어 설명 되었나요?&lt;/p&gt;
+&lt;p&gt;✔️ 두괄식으로 개념을 설명하고, 그에 따른 예시를 풀어서 설명하고 있나요?&lt;/p&gt;
+&lt;p&gt;✔️ 개념 활용 예시가 구체적이고 풍부했나요?&lt;/p&gt;
+&lt;p&gt;✔️ 잘 모르는 내용에 대해서 불명확하게 설명한 부분이 있었나요?&lt;/p&gt;
+&lt;p&gt;✔️ 정확한 CS 용어(ex. 변수를 만들어서 값을 넣어요. → 변수를 선언하고 값을 할당합니다. 등) 를 사용해서 답변했나요?&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;👍👍👍 셀프 체크리스트를 참고해서 연습해보자!&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[5주차] Coz' Mini Hackathon - 2일차]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-19-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-19-post.md/</guid><pubDate>Tue, 19 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h2&gt;☑️ 나만의 아고라 스테이츠 만들기&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;오늘 공부한 내용&lt;/li&gt;
 &lt;li&gt;어려웠던 내용&lt;/li&gt;

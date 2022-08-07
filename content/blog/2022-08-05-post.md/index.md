@@ -1,5 +1,5 @@
 ---
-title: "[7주차] REST API 😄 - 5일차1"
+title: "[7주차] REST API 😄 - 5일차"
 date: "2022-08-05T23:41:32.169Z"
 category: blog
 thumbnail: { thumbnailSrc }

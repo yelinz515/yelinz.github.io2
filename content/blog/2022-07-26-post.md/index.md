@@ -44,7 +44,6 @@ _.indexOf = function (arr, target) {
 ```
 
 <br>
-<br>
 
 > ## 마무리 👀
 

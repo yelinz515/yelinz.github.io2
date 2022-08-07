@@ -4,6 +4,7 @@ import { Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import Utterances from "../components/Utterances"
 
 const BlogPostTemplate = ({
   data: { previous, next, site, markdownRemark: post },
@@ -57,6 +58,7 @@ const BlogPostTemplate = ({
           </li>
         </ul>
       </nav>
+      <Utterances />
     </Layout>
   )
 }

@@ -5,6 +5,5 @@ category: blog
 thumbnail: { thumbnailSrc }
 draft: false
 ---
-***
 
 [velog blog](https://velog.io/@dpfls0515).

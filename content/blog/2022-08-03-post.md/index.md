@@ -1,5 +1,5 @@
 ---
-title: "[7주차] React Twittler State & Props 정리- 3일차"
+title: "[7주차] React Twittler State & Props 후기(수정) - 3일차"
 date: "2022-08-03T23:41:32.169Z"
 category: blog
 description:

@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 08 Aug 2022 08:46:27 GMT</lastBuildDate><item><title><![CDATA[프론트에서 서버에 데이터 요청하기]]></title><description><![CDATA[유투브에서 우연히 영상을 보았다.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 09 Aug 2022 08:50:22 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-08-10-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-08-10-post.md/</guid><content:encoded></content:encoded></item><item><title><![CDATA[React lifting state up]]></title><description><![CDATA[☑️ React 데이터 흐름 페이지를 만들기 이전에, 컴포넌트를 먼저 만들고 조립한다. 상향식으로 앱을 만들면 테스트가 쉽고 확장성이 좋다. ✔️ 단방향 데이터 흐름(one-way data flow…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-08-09-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-08-09-post/</guid><pubDate>Tue, 09 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;☑️ React 데이터 흐름&lt;/h3&gt;
+&lt;p&gt;페이지를 만들기 이전에, 컴포넌트를 먼저 만들고 조립한다. 상향식으로 앱을 만들면 테스트가 쉽고 확장성이 좋다.&lt;/p&gt;
+&lt;h4&gt;✔️ 단방향 데이터 흐름(one-way data flow)&lt;/h4&gt;
+&lt;p&gt;상태를 최소화하는 것이 가장 좋으며,&lt;/p&gt;
+&lt;h4&gt;✔️ Lifting state / 하향식 데이터 흐름(Top-down data flow)&lt;/h4&gt;
+&lt;p&gt;보통 state는 rendering을 위해서 component에 추가되는데,
+만약 다른 component도 함께 state를 필요로하면
+그 component들의 공통된 부모 component로 state를 끌어올린다.&lt;/p&gt;
+&lt;p&gt;부모 component에서 관리하게 되는것이다. 이것이 하향식 데이터 흐름를 활용하는 방법이다.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;장점 :
+bug가 줄고, 관리하는 로직 수정이 쉬움.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;📍 만약 UI에서 잘못된 값이 render 된 부분을 발견한다면
+해당 data, 즉 props가 어떠한 부모 component로부터 왔는지
+component tree의 상위를 탐색하여 파악할 수 있다.
+그 결과, bug를 쉽게 발견하여 고칠 수 있다.&lt;/p&gt;
+&lt;br&gt;
+&lt;blockquote&gt;
+&lt;h3&gt;마무리 👀&lt;/h3&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;지금 States Airline이라는 관련 과제를 하고 있다. 내일 part2까지 과제가 마무리되면 다음 포스트에는 과제 관련 포스트를 올려야겠다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[프론트에서 서버에 데이터 요청하기]]></title><description><![CDATA[유투브에서 우연히 영상을 보았다.
 직접 server와 client 간의 데이터를 주고받는 법을 배울 수 있었다. ☑️ server 파일과 client 파일 생성 ✔️ server 파일 pacakage.json…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-08-08-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-08-08-post.md/</guid><pubDate>Mon, 08 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;유투브에서 우연히 영상을 보았다.
 직접 server와 client 간의 데이터를 주고받는 법을 배울 수 있었다.&lt;/p&gt;
 &lt;h3&gt;☑️ server 파일과 client 파일 생성&lt;/h3&gt;

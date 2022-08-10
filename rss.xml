@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 10 Aug 2022 12:31:30 GMT</lastBuildDate><item><title><![CDATA[[8주차] [Web Server] 기초 - 3일차]]></title><description><![CDATA[API 서버는 프론트엔드 개발자도 구현할 줄 알아야 한다. 새로운 서비스를 만들려고 해도, 필요한 데이터를 저장하거나 불러오는 기본적인 API 서버를 구현할 수 없다면 아무런 동적 활동을 할 수 없는 클라이언트만 구현될 수 밖에 없다. SOP…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-08-11-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-08-11-post.md/</guid><pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;API 서버는 프론트엔드 개발자도 구현할 줄 알아야 한다. 새로운 서비스를 만들려고 해도, 필요한 데이터를 저장하거나 불러오는 기본적인 API 서버를 구현할 수 없다면 아무런 동적 활동을 할 수 없는 클라이언트만 구현될 수 밖에 없다.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 10 Aug 2022 12:50:40 GMT</lastBuildDate><item><title><![CDATA[[8주차] [Web Server] 기초 - 3일차]]></title><description><![CDATA[API 서버는 프론트엔드 개발자도 구현할 줄 알아야 한다. 새로운 서비스를 만들려고 해도, 필요한 데이터를 저장하거나 불러오는 기본적인 API 서버를 구현할 수 없다면 아무런 동적 활동을 할 수 없는 클라이언트만 구현될 수 밖에 없다. SOP…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-08-11-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-08-11-post.md/</guid><pubDate>Thu, 11 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;API 서버는 프론트엔드 개발자도 구현할 줄 알아야 한다. 새로운 서비스를 만들려고 해도, 필요한 데이터를 저장하거나 불러오는 기본적인 API 서버를 구현할 수 없다면 아무런 동적 활동을 할 수 없는 클라이언트만 구현될 수 밖에 없다.&lt;/p&gt;
 &lt;h3&gt;SOP가 생겨난 이유&lt;/h3&gt;
 &lt;p&gt;OP은 애초에 다른 사이트와의 리소스 공유를 제한하기 때문에 해킹 등의 위협에서 보다 더 안전해질 수 있다. 모든 브라우저에서 기본적으로 사용하고 있는 정책이다.&lt;/p&gt;
 &lt;h3&gt;CORS&lt;/h3&gt;
@@ -1402,15 +1402,123 @@ D. document.querySelectorAll(&apos;div&apos;) // &amp;lt;div&gt;요소 모두 �
 &lt;p&gt;그렇다면..&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;✨ Q. 위 HTML에서 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;div&gt;&lt;/code&gt;요소를 조회하였다면, 조회한 &lt;code class=&quot;language-text&quot;&gt;&amp;lt;div&gt;&lt;/code&gt; 개수는?&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;부모, 자식 관계와 관계 없이&lt;/strong&gt; 모든 div 요소를 선택하기 때문에 총 3개이다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[JavaScript Koans]]></title><description><![CDATA[JavaScript koans를 풀었던 과정과 새롭게 알게 된 것😄 01_Introduction.js ✨ expect 함수 테스트하는 값과 기대값을 비교 04_Scope.js ✨ 함수 선언식(declaration)과 함수 표현식(expression…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-13-JavaScript-Koans-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-13-JavaScript-Koans-post.md/</guid><pubDate>Wed, 13 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h1&gt;JavaScript koans를 풀었던 과정과 새롭게 알게 된 것😄&lt;/h1&gt;
-&lt;h2&gt;01_Introduction.js&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;부모, 자식 관계와 관계 없이&lt;/strong&gt; 모든 div 요소를 선택하기 때문에 총 3개이다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[4주차] [JavaScript] 핵심 개념과 주요 문법 - 3일차]]></title><description><![CDATA[✨ 스코프 : 변수 접근 규칙에 따른 유효 범위 1. firstName 변수가 함수 안쪽 정의 :arrow_right: 함수 바깥쪽에서 firstName으로 접근 불가능 (=ReferenceError…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-13-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-13-post.md/</guid><pubDate>Wed, 13 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h3&gt;✨ 스코프&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;: &lt;strong&gt;변수 접근 규칙에 따른 유효 범위&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; greeting &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Hello&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;greetSomeone&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; firstName &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Josh&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; greeting &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos; &apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; firstName&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;firstName&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;1. firstName 변수가 함수 안쪽 정의 :arrow_right: 함수 바깥쪽에서 firstName으로 접근 불가능 (=ReferenceError)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;바깥쪽 스코프에서 선언한 변수는 안쪽 스코프에서 사용 가능&lt;/li&gt;
+&lt;li&gt;안쪽에서 선언한 변수는 바깥쪽 스포크에서 사용 불가능&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. 중첩 가능&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;“지역 변수는 전역 변수보다 더 높은 우선순위를 가진다”&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; name &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;김코딩&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;showName&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; name &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;박해커&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;name&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 2 &apos;박해커&apos;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;name&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 1 &apos;김코딩&apos;&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;showName&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;name&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 3 &apos;김코딩&apos;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;2️번 출력에서 ‘김코딩’이 나오는 이유는 지역 name 변수를 새로 선언했기 때문에 전역에 있는 name 변수와는 다르다.&lt;/p&gt;
+&lt;p&gt;만약,&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; name &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;김코딩&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;showName&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  name &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;박해커&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;name&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 2 &apos;박해커&apos;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;name&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;token comment&quot;&gt;// 1 &apos;김코딩&apos;&lt;/span&gt;
+&lt;span class=&quot;token function&quot;&gt;showName&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;name&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;token comment&quot;&gt;// 3 &apos;박해커&apos;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;지역 name 변수를 새로 선언하지 않았다면 전역 name 변수와 같은 변수이기 때문에 ‘김코딩’ 에서 ‘박해커’로 변경된다.
+따라서, 3번 출력은 ‘박해커’가 된다.&lt;/p&gt;
+&lt;h3&gt;✨  스코프의 종류&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;: &lt;strong&gt;블록 스코프, 함수 스코프&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;🔹 화살표 함수는 블록 스코프로 취급된다.&lt;/p&gt;
+&lt;p&gt;🔹 &lt;strong&gt;var키워드&lt;/strong&gt;_
+블록 스코프에서 block 범위를 벗어나도 같은 function scope에서는 사용이 가능하다.
+따라서, var 보다는 let 으로 변수 선언을 하는 것을 권장한다.&lt;/p&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;h3&gt;✨ 클로저&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;: &lt;strong&gt;함수를 리턴하는 함수&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; x &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; y&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;✅ 내부 함수는 외부 함수에 선언된 변수에 접근 가능&lt;/p&gt;
+&lt;p&gt;✅ 클로저는 &lt;strong&gt;모듈화&lt;/strong&gt;에 유리&lt;/p&gt;
+&lt;br&gt;
+&lt;hr&gt;
+&lt;h3&gt;✨ ES6 신규 문법&lt;/h3&gt;
+&lt;h4&gt;1.1. spread 문법&lt;/h4&gt;
+&lt;p&gt;주로 배열을 풀어서 인자로 전달 or 배열을 풀어서 각각의 요소로 넣을 때 사용&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;x&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; y&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; z&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; x &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; y &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; z&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; numbers &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;token function&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;...&lt;/span&gt;numbers&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// spread 문법&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4&gt;1.2. rest 문법&lt;/h4&gt;
+&lt;p&gt;파라미터를 배열의 형태로 받아서 사용 (파라미터 개수가 가변적일 때 유용!)&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;...&lt;/span&gt;theArgs&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// rest 문법&lt;/span&gt;
+  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; theArgs&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;reduce&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;previous&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; current&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; previous &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; current&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4&gt;2. 구조분해할당&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;: spread 문법을 이용하여 값을 해체 -&gt; 개별 값을 변수에 새로 할당&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; arr &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;code&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;states&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; value &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;...&lt;/span&gt;arr&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token string&quot;&gt;&apos;pre&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+  &lt;span class=&quot;token operator&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;course&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;student&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
+
+console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;value&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;…arr처럼 spread 문법을 이용해 값을 해체한다.
+…[‘course’, ‘student’]도 마찬가지이다.&lt;/p&gt;
+&lt;p&gt;결과적으로, 아래와 같은 값이 나오게 된다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;code&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;states&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;pre&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;course&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;student&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;정리&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;✔️ 스코프의 의미와 적용 범위를 이해한다.&lt;/p&gt;
+&lt;p&gt;✔️ 스코프의 주요 규칙을 이해한다.&lt;/p&gt;
+&lt;p&gt;✔️ 전역 스코프와 지역 스코프의 차이를 이해한다.&lt;/p&gt;
+&lt;p&gt;✔️ 클로저 함수의 정의와 특징에 대해서 이해할 수 있다.&lt;/p&gt;
+&lt;p&gt;✔️ spread/rest 문법을 사용할 수 있다.&lt;/p&gt;
+&lt;p&gt;✔️ 구조 분해 할당을 사용할 수 있다.&lt;/p&gt;
+&lt;p&gt;👍👍👍&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;✨ JavaScript Koans에 대해서는 다른 포스트에 정리해두었습니다.&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[JavaScript Koans]]></title><description><![CDATA[JavaScript koans 풀었던 과정과 새롭게 알게 된 것😄 01_Introduction.js ✨ expect 함수 테스트하는 값과 기대값을 비교 04_Scope.js ✨ 함수 선언식(declaration)과 함수 표현식(expression…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-13-JavaScript-Koans-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-13-JavaScript-Koans-post.md/</guid><pubDate>Wed, 13 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h3&gt;JavaScript koans 풀었던 과정과 새롭게 알게 된 것😄&lt;/h3&gt;
+&lt;h3&gt;01_Introduction.js&lt;/h3&gt;
 &lt;p&gt;✨ &lt;strong&gt;expect&lt;/strong&gt; 함수&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;테스트하는 값과 기대값을 비교&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token function&quot;&gt;expect&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;to&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;equal&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// &apos;sum(1, 2)의 결과값은 3과 같아야(equal) 한다&apos;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;br&gt;
-&lt;h2&gt;04_Scope.js&lt;/h2&gt;
+&lt;h3&gt;04_Scope.js&lt;/h3&gt;
 &lt;p&gt;✨ 함수 선언식(declaration)과 함수 표현식(expression)의 차이&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;funcDeclared&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;this is a function declaration&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
@@ -1423,14 +1531,12 @@ console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cl
 
 console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;typeof&lt;/span&gt; funExpressed&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// &apos;string&apos;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;✨ 자바스크립트 함수 호이스팅(hoisting)&lt;/p&gt;
-&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;인터프리터가 변수와 함수의 메모리 공간을 선언 전에 미리 할당하는 것&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
 &lt;p&gt;“변수의 선언과 초기화를 분리한 후, 선언만 코드의 최상단으로 옮기는 것” 이라고 주로 설명할 수 있다.&lt;/p&gt;
 &lt;p&gt;✨ lexical scope
 자바스크립트는 함수가 호출되는 환경와 별개로, 기존에 선언되어 있던 환경 - 어휘적 환경 - 을 기준으로 변수를 조회하려고 함.&lt;/p&gt;
 &lt;br&gt;
-&lt;h2&gt;05_ArrowFunction.js&lt;/h2&gt;
+&lt;h3&gt;05_ArrowFunction.js&lt;/h3&gt;
 &lt;p&gt;✨ 화살표 함수 사용법&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;function 키워드를 생략하고 화살표 =&gt; 를 붙인다.&lt;/li&gt;
@@ -1442,8 +1548,9 @@ console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cl
 &lt;li&gt;리턴을 생략할 수 있습니다&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;subtract&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;x&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; y&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; x &lt;span class=&quot;token operator&quot;&gt;-&lt;/span&gt; y&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;br&gt;
 &lt;h3&gt;💡 원본 변경 메서드 vs 간접 변경 메서드&lt;/h3&gt;
-&lt;h3&gt;1. 원본 변경 메서드&lt;/h3&gt;
+&lt;h4&gt;1. 원본 변경 메서드&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;push()&lt;/li&gt;
 &lt;li&gt;pop()&lt;/li&gt;
@@ -1451,7 +1558,7 @@ console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cl
 &lt;li&gt;unshift()&lt;/li&gt;
 &lt;li&gt;splice()&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;2. 간접 변경 메서드&lt;/h3&gt;
+&lt;h4&gt;2. 간접 변경 메서드&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;slice() // slice(0) === slice()&lt;/li&gt;
 &lt;li&gt;concat()&lt;/li&gt;
@@ -1465,13 +1572,13 @@ console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cl
 &lt;p&gt;slice() 메서드가 간접 변경 메서드이기 때문에 원본이 변경 되지 않는다.
 따라서, ‘changed in copiedArr’가 아닌 ‘three’가 정답이다.&lt;/p&gt;
 &lt;br&gt;
-&lt;h2&gt;06_Types-part2.js&lt;/h2&gt;
+&lt;h3&gt;06_Types-part2.js&lt;/h3&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;if&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;arr &lt;span class=&quot;token operator&quot;&gt;===&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;//false&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;참조 자료형인 배열, 객체, 함수는 주소를 변수에 할당하기 때문에 우리가 보기에 요소가 같더라도 실제로 heap에 저장되어 있는 값은 다르다는 것이다.
 이 부분에 대해 배우지 않았다면, 위 코드가 왜 틀렸는지 몰랐을 것이다.&lt;/p&gt;
 &lt;br&gt;
-&lt;h2&gt;08_Object.js&lt;/h2&gt;
+&lt;h3&gt;08_Object.js&lt;/h3&gt;
 &lt;p&gt;✨ &lt;strong&gt;깊은 복사와 얕은 복사&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Array.prototype.slice&lt;/strong&gt; : 배열을 깔끔하게 복사할 때 사용.&lt;/li&gt;
@@ -1528,134 +1635,23 @@ console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cl
 &lt;p&gt;&lt;strong&gt;정리&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;✔️ 자바스크립트 핵심 개념과 주요 문법에 대해 이해할 수 있었다.&lt;/p&gt;
-&lt;p&gt;✔️ 복습하며 완벽하게 아는 것이 중요하다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[4주차] [JavaScript] 핵심 개념과 주요 문법 - 3일차]]></title><description><![CDATA[✨ 스코프 : 변수 접근 규칙에 따른 유효 범위 firstName 변수가 함수 안쪽 정의 :arrow_right: 함수 바깥쪽에서 firstName으로 접근 불가능 (=ReferenceError…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-13-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-13-post.md/</guid><pubDate>Wed, 13 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h2&gt;✨ 스코프&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;: &lt;strong&gt;변수 접근 규칙에 따른 유효 범위&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; greeting &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Hello&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;greetSomeone&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; firstName &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;Josh&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; greeting &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos; &apos;&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; firstName&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;firstName&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;ol&gt;
-&lt;li&gt;firstName 변수가 함수 안쪽 정의 :arrow_right: 함수 바깥쪽에서 firstName으로 접근 불가능 (=ReferenceError)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;📍 바깥쪽 스코프에서 선언한 변수는 안쪽 스코프에서 사용 가능&lt;/p&gt;
-&lt;p&gt;✅ 안쪽에서 선언한 변수는 바깥쪽 스포크에서 사용 불가능&lt;/p&gt;
-&lt;ol start=&quot;2&quot;&gt;
-&lt;li&gt;중첩 가능&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;“지역 변수는 전역 변수보다 더 높은 우선순위를 가진다”&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; name &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;김코딩&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;showName&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; name &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;박해커&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;name&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 2 &apos;박해커&apos;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-
-console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;name&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 1 &apos;김코딩&apos;&lt;/span&gt;
-&lt;span class=&quot;token function&quot;&gt;showName&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;name&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 3 &apos;김코딩&apos;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;2️번 출력에서 ‘김코딩’이 나오는 이유는 지역 name 변수를 새로 선언했기 때문에 전역에 있는 name 변수와는 다르다.&lt;/p&gt;
-&lt;p&gt;만약,&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; name &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;김코딩&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;showName&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  name &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;박해커&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;name&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// 2 &apos;박해커&apos;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-
-console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;name&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;token comment&quot;&gt;// 1 &apos;김코딩&apos;&lt;/span&gt;
-&lt;span class=&quot;token function&quot;&gt;showName&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;name&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;span class=&quot;token comment&quot;&gt;// 3 &apos;박해커&apos;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;지역 name 변수를 새로 선언하지 않았다면 전역 name 변수와 같은 변수이기 때문에 ‘김코딩’ 에서 ‘박해커’로 변경된다.
-따라서, 3번 출력은 ‘박해커’가 된다.&lt;/p&gt;
-&lt;h2&gt;✨ 스코프의 종류&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;: &lt;strong&gt;블록 스코프, 함수 스코프&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;🔹 화살표 함수는 블록 스코프로 취급된다.&lt;/p&gt;
-&lt;p&gt;🔹 &lt;strong&gt;var키워드&lt;/strong&gt;_
-블록 스코프에서 block 범위를 벗어나도 같은 function scope에서는 사용이 가능하다.
-따라서, var 보다는 let 으로 변수 선언을 하는 것을 권장한다.&lt;/p&gt;
-&lt;br&gt;
-&lt;h2&gt;✨ 클로저&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;: &lt;strong&gt;함수를 리턴하는 함수&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token function-variable function&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; x &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; y&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;✅ 내부 함수는 외부 함수에 선언된 변수에 접근 가능&lt;/p&gt;
-&lt;p&gt;✅ 클로저는 &lt;strong&gt;모듈화&lt;/strong&gt;에 유리&lt;/p&gt;
-&lt;br&gt;
-&lt;h2&gt;✨ ES6 신규 문법&lt;/h2&gt;
-&lt;h3&gt;1.1. spread 문법&lt;/h3&gt;
-&lt;p&gt;주로 배열을 풀어서 인자로 전달 or 배열을 풀어서 각각의 요소로 넣을 때 사용&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;x&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; y&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; z&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; x &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; y &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; z&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
-
-&lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; numbers &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-
-&lt;span class=&quot;token function&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;...&lt;/span&gt;numbers&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// spread 문법&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;1.2. rest 문법&lt;/h3&gt;
-&lt;p&gt;파라미터를 배열의 형태로 받아서 사용 (파라미터 개수가 가변적일 때 유용!)&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;sum&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;&lt;span class=&quot;token operator&quot;&gt;...&lt;/span&gt;theArgs&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt; &lt;span class=&quot;token comment&quot;&gt;// rest 문법&lt;/span&gt;
-  &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; theArgs&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;reduce&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;previous&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; current&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
-    &lt;span class=&quot;token keyword&quot;&gt;return&lt;/span&gt; previous &lt;span class=&quot;token operator&quot;&gt;+&lt;/span&gt; current&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h2&gt;&lt;/h2&gt;
-&lt;h3&gt;2. 구조분해할당&lt;/h3&gt;
-&lt;blockquote&gt;
-&lt;p&gt;: spread 문법을 이용하여 값을 해체 -&gt; 개별 값을 변수에 새로 할당&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; arr &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;code&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;states&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
-&lt;span class=&quot;token keyword&quot;&gt;let&lt;/span&gt; value &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;
-  &lt;span class=&quot;token operator&quot;&gt;...&lt;/span&gt;arr&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;token string&quot;&gt;&apos;pre&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
-  &lt;span class=&quot;token operator&quot;&gt;...&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;course&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;student&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
-&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;
-
-console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;log&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;value&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;…arr처럼 spread 문법을 이용해 값을 해체한다.
-…[‘course’, ‘student’]도 마찬가지이다.&lt;/p&gt;
-&lt;p&gt;결과적으로, 아래와 같은 값이 나오게 된다.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&apos;code&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;states&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;pre&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;course&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&apos;student&apos;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;br&gt;
-&lt;p&gt;✨ JavaScript Koans에 대해서는 다른 포스트에 정리해두겠습니다.&lt;/p&gt;
-&lt;h2&gt;&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;정리&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;✔️ 스코프의 의미와 적용 범위를 이해한다.&lt;/p&gt;
-&lt;p&gt;✔️ 스코프의 주요 규칙을 이해한다.&lt;/p&gt;
-&lt;p&gt;✔️ 전역 스코프와 지역 스코프의 차이를 이해한다.&lt;/p&gt;
-&lt;p&gt;✔️ 클로저 함수의 정의와 특징에 대해서 이해할 수 있다.&lt;/p&gt;
-&lt;p&gt;✔️ spread/rest 문법을 사용할 수 있다.&lt;/p&gt;
-&lt;p&gt;✔️ 구조 분해 할당을 사용할 수 있다.&lt;/p&gt;
-&lt;p&gt;👍👍👍&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[4주차] 보이는 라디오 - 2일차]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-12-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-12-post.md/</guid><pubDate>Tue, 12 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h1&gt;📻 보이는 라디오&lt;/h1&gt;
-&lt;h2&gt;✨ 취업.. 가능할까요?&lt;/h2&gt;
+&lt;p&gt;✔️ 복습하며 완벽하게 아는 것이 중요하다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[📻 보이는 라디오]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-12-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-12-post.md/</guid><pubDate>Tue, 12 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h3&gt;✨ 취업.. 가능할까요?&lt;/h3&gt;
 &lt;p&gt;코드 스테이츠를 수료 후에 취업을 할 수 있는가? 고민하는 사람들이 많을 것이다.
 나도 그렇다.
 끊임없이 남과 비교하며 포기하고 싶다는 생각도 많이 들겠지만, 이 시간을 통해 얻은 교훈은…
 ‘남’이 아닌 ‘나의 어제’와 비교하라는 것이다.😊 😊&lt;/p&gt;
 &lt;br&gt;
-&lt;h2&gt;✨ 잠이 오면 잠을 자요!&lt;/h2&gt;
+&lt;h3&gt;✨ 잠이 오면 잠을 자요!&lt;/h3&gt;
 &lt;p&gt;나는 잠을 빨리 자고 빨리 일어나는 편이다.
 늦게 자서 아침에 일어날 때 피곤하면 짜증지수가 올라가기 때문에 차라리 빨리자서 새벽 5시에 일어나는 것이 더 낫다.&lt;/p&gt;
 &lt;br&gt;
 &lt;blockquote&gt;
 &lt;p&gt;기억해야 할 명언&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;“우울한 사람은 과거에 사는 자이고
+&lt;p&gt;&lt;strong&gt;“우울한 사람은 과거에 사는 자이고
 불안한 사람은 미래에 사는 자이며
 평안한 사람은 이 순간에 사는 자다.”
--노자-&lt;/p&gt;
+-노자-&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;➡️ 시간이 지날수록 페어와 같이 프로그래밍 하는 시간이 소중해진다. 같이 하면 할수록 너무 좋다.❤️&lt;/p&gt;
 &lt;br&gt;
 &lt;blockquote&gt;
@@ -1668,14 +1664,14 @@ console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cl
 &lt;strong&gt;전공자라서 다른 사람들보다 더 아는 부분에 대해 정확히 설명해줄 수 있다는 장점&lt;/strong&gt;이 너무 좋다고 느껴졌다.
 페어가 모르는 부분에 설명을 들었을 때 이해됐다면서 고맙다는 말을 했을 때가 가장 뿌듯했다.💜
 그래서 페어들을 위해서라도 예습과 복습을 더 꾸준히 열심히 해야겠다는 생각이 들었다.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;💡 기술적인 얘기에 대해서는 다음 블로깅을 통해 다루도록 하겠습니다!&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[4주차] [JavaScript] 원시 자료형과 참조 자료형의 특징과 종류 - 1일차]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-11-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-11-post.md/</guid><pubDate>Mon, 11 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h1&gt;☑️ 원시자료형과 참조자료형&lt;/h1&gt;
-&lt;h2&gt;✨ 원시 자료형&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;💡 기술적인 얘기에 대해서는 다음 블로깅을 통해 다루도록 하겠습니다!&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[4주차] [JavaScript] 원시 자료형과 참조 자료형의 특징과 종류 - 1일차]]></title><description><![CDATA[…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-11-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-11-post.md/</guid><pubDate>Mon, 11 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h2&gt;☑️ 원시자료형과 참조자료형&lt;/h2&gt;
+&lt;h4&gt;✨ 원시 자료형&lt;/h4&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;string&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; number&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; bigInt&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; boolean&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token keyword&quot;&gt;undefined&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; symbol&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;null&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;데이터의 크기와는 관계없이 변수에는  &lt;strong&gt;하나&lt;/strong&gt;의 데이터만 담습니다.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;&lt;/h2&gt;
-&lt;h2&gt;✨ 참조 자료형&lt;/h2&gt;
+&lt;h4&gt;✨ 참조 자료형&lt;/h4&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;&lt;span class=&quot;token function&quot;&gt;배열&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;Array&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;객체&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;Object&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;함수&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token keyword&quot;&gt;function&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;ul&gt;
 &lt;li&gt;변수에 값이 아닌 주소를 저장합니다.&lt;/li&gt;

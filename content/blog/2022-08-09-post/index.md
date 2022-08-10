@@ -1,5 +1,5 @@
 ---
-title: "React lifting state up"
+title: "[8주차] React lifting state up - 1일차"
 date: "2022-08-09"
 ---
 

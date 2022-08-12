@@ -160,6 +160,10 @@ h6 > a {
 
 /* Prose */
 
+pre > code {
+  font-family:var(--font-heading);
+}
+
 p {
   line-height: var(--lineHeight-relaxed);
   --baseline-multiplier: 0.179;
@@ -182,6 +186,7 @@ ul li,
 ol li {
   padding-left: var(--spacing-0);
   margin-bottom: calc(var(--spacing-8) / 2);
+  font-family:var(--font-heading);
 }
 
 li > p {

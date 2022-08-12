@@ -4,9 +4,9 @@ date: "2022-07-11T23:41:32.169Z"
 category: blog
 ---
 
-# ☑️ 원시자료형과 참조자료형
+## ☑️ 원시자료형과 참조자료형
 
-## ✨ 원시 자료형
+#### ✨ 원시 자료형
 
 ```JavaScript
 string, number, bigInt, boolean, undefined, symbol, (null)
@@ -16,7 +16,7 @@ string, number, bigInt, boolean, undefined, symbol, (null)
 
 ##
 
-## ✨ 참조 자료형
+#### ✨ 참조 자료형
 ```JavaScript
 배열 (Array()), 객체 (Object), 함수 (function)
 ```

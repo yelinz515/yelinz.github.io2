@@ -4,18 +4,20 @@ date: "2022-08-02T23:41:32.169Z"
 category: blog
 ---
 
-## ☑️ React
+### React
 
 > **프론트엔드 개발을 위한 자바스크립트 오픈소스 라이브러리**
 
-## ☑️ React에서 데이터 다루는 두 가지 방법
+<br>
 
-### 🔹 State
+### React에서 데이터 다루는 두 가지 방법
+
+#### ✔️ State
 
 > 내부에서 변화하는 값.
 컴포넌트의 사용 중 컴포넌트 내부에서 변할 수 있는 값
 
-#### ✔️ useState
+####  useState
 
 ```js
 const [state 저장 변수, state 갱신 함수] = useState(상태 초기 값);
@@ -27,7 +29,7 @@ const [isChecked, setIsChecked] = useState(false);
 
 useState 를 호출한다는 것은 "state" 라는 변수를 선언하는 것과 같으며, 이 변수의 이름은 아무 이름으로 지어도 된다.
 
-### 🔹 Props
+#### ✔️ Props
 
 > 외부로부터 전달받은 값
 
@@ -35,7 +37,8 @@ useState 를 호출한다는 것은 "state" 라는 변수를 선언하는 것과
 
 <br>
 
-## ☑️ React 데이터 흐름
+
+### React 데이터 흐름
 
 #### ✔️ 상향식으로 앱을 만들기
 

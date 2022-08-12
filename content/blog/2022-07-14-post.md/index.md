@@ -3,10 +3,9 @@ title: "[4주차] [JS/브라우저] DOM - 4일차"
 date: "2022-07-14T23:41:32.169Z"
 category: blog
 ---
+<br>
 
-# [JS/브라우저] DOM
-
-## DOM(Document Object Model)
+##  DOM(Document Object Model)
 
 JS를 사용할 수 있으면, DOM으로 HTML을 조작할 수 있습니다. DOM이라는 구조를 기반으로, JavaScript로 프로그램을 작성하여 HTML을 조작합니다.
 
@@ -19,13 +18,11 @@ JS를 사용할 수 있으면, DOM으로 HTML을 조작할 수 있습니다. DOM
   2. </body> 가 끝나기 전에 추가하는 방법
 ```
 
-<br>
-
-### DOM 구조 조회
+#### DOM 구조 조회
 ```
 console.dir(document.body) // DOM을 객체의 모습으로 출력
 ```
-### 부모 요소에서 첫 자식 요소 조회
+#### 부모 요소에서 첫 자식 요소 조회
 
 ```
 console.dir(document.body.children[1])
@@ -99,11 +96,14 @@ onclick : 마지막 하나만 실행. 옛날 방식
 addEventListener: 하나하나 차례대로 다 실행. 최근 더 많이 사용됨
 
 <br>
+
+***
+
+#### <종합퀴즈 오답노트>
+
 <br>
 
-> **종합퀴즈 오답노트**
-
-9.
+**✅ 9.**
 ```JavaScript
 function displayAlert() {
   alert('코드스테이츠에 오신 것을 환영합니다')
@@ -122,7 +122,7 @@ document.querySelector('#apply').onclick = displayAlert // displayAlert() O
 
 <br>
 
-7.
+**✅ 7.**
 ```
 ✨ Q. aElement를 HTML에서 제거하기 위한 방법?
 ```
@@ -142,7 +142,7 @@ value: 속성에 할당할 값
 
 <br>
 
-> 보기
+**보기:**
 
 ```h
 //오답
@@ -162,7 +162,7 @@ E. document.querySelector("#world").removeChild(aElement) //world 엘리먼트�
 
 <br>
 
-3.
+**✅ 3.**
 ```
 ✨ Q. <div>요소를 전부 조회하는 방법?
 ```
@@ -179,7 +179,7 @@ E. document.querySelector("#world").removeChild(aElement) //world 엘리먼트�
 ```
 <br>
 
-> 보기
+**보기**
 
 ```
 // 오답
@@ -199,8 +199,7 @@ D. document.querySelectorAll('div') // <div>요소 모두 조회
 
 > 그렇다면..
 
-```
-✨ Q. 위 HTML에서 <div>요소를 조회하였다면, 조회한 <div> 개수는?
-```
+**✨ Q. 위 HTML에서 `<div>`요소를 조회하였다면, 조회한 `<div>` 개수는?**
+
 
 **부모, 자식 관계와 관계 없이** 모든 div 요소를 선택하기 때문에 총 3개이다.

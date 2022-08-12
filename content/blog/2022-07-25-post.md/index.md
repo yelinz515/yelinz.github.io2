@@ -4,21 +4,19 @@ date: "2022-07-25T23:41:32.169Z"
 category: blog
 ---
 
-## ☑️ 프로토타입 체인 블로깅
-
 * 프로토타입 체인
 * .prototype
 * .__ proto __
 * Object
+
 ***
 
-### ✔️ 프로토타입 체인
+### 프로토타입 체인
 
-> 상속을 JS에서 구현할 때 프로토타입 체인 사용. 
+상속을 JS에서 구현할 때 프로토타입 체인 사용한다. 
+extends와 super 키워드를 이용해 상속을 구현한다.
 
-extends와 super 키워드를 이용해 상속을 구현.
-
-### ✔️ .__ proto __
+### .__ proto __
 
 ```js
 let div = document.createElement('div');
@@ -32,7 +30,7 @@ div.__proto__.__proto__.__proto__ // HTMLElement, Element
 
 아래 그림을 통해 이해할 수 있을 것 같다.
 
-### ✔️ Object
+### Object
 
 실제  div 엘리먼트는,  HTMLDivElement라는 클래스의 인스턴스이다.
 

@@ -74,14 +74,43 @@
 <span class="token keyword">function</span> <span class="token function">HelloWorld</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">{</span>
     <span class="token keyword">return</span> <span class="token operator">&lt;</span>Hello <span class="token operator">/</span><span class="token operator">></span>
 <span class="token punctuation">}</span></code></pre></div>
-<p>위 코드를 보면 HelloWorld 함수에서 Hello 함수를 리턴하고 있다.</p>
+<ul>
+<li>위 코드를 보면 <code class="language-text">HelloWorld</code> 함수에서 <code class="language-text">Hello</code> 함수를 리턴하고 있다.</li>
+</ul>
+<p>React 엘리먼트가 JSX로 작성되면 **“대문자”**로 시작해야 한다. 소문자로 시작하게 되면 일반적인 HTML 엘리먼트로 인식을 하게 된다.</p>
+<p>이렇게 대문자로 작성된 JSX 컴포넌트를 따로 사용자 정의 컴포넌트라고 부른다.</p>
+<h2></h2>
 <div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token keyword">import</span> <span class="token punctuation">{</span> App <span class="token punctuation">}</span> <span class="token keyword">from</span> <span class="token string">'./App'</span><span class="token punctuation">;</span>
 
 ReactDOM<span class="token punctuation">.</span><span class="token function">render</span><span class="token punctuation">(</span><span class="token operator">&lt;</span>App <span class="token operator">/</span><span class="token operator">></span><span class="token punctuation">,</span> document<span class="token punctuation">.</span><span class="token function">getElementById</span><span class="token punctuation">(</span><span class="token string">'root'</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span></code></pre></div>
-<p>위 코드는 index.js파일에서 App 컴포넌트를 root라는 id 값에 부착시킨다는 뜻이다.</p>
+<ul>
+<li>위 코드는 index.js파일에서 App 컴포넌트를 root라는 id 값에 부착시킨다는 뜻이다.</li>
+</ul>
 <p>즉, 위 코드를 실행하면 App.js가 실행될 것이다.</p>
-<p><strong>왜 jsx는 삼항연산자를 써야 할까?</strong>
-if문은 변수에 넣지 못하기 때문에 변수에 넣을 수 있는 삼항연산자를 쓰면 편리하다.</p>
+<h2></h2>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token operator">&lt;</span>div<span class="token operator">></span>
+<span class="token punctuation">{</span>
+    <span class="token punctuation">(</span><span class="token number">1</span><span class="token operator">+</span><span class="token number">1</span> <span class="token operator">===</span> <span class="token number">2</span><span class="token punctuation">)</span> <span class="token operator">?</span> <span class="token punctuation">(</span><span class="token operator">&lt;</span>p<span class="token operator">></span>정답<span class="token operator">&lt;</span><span class="token operator">/</span>p<span class="token operator">></span><span class="token punctuation">)</span> <span class="token operator">:</span> <span class="token punctuation">(</span><span class="token operator">&lt;</span>p<span class="token operator">></span>탈락<span class="token operator">&lt;</span><span class="token operator">/</span>p<span class="token operator">></span><span class="token punctuation">)</span> 
+<span class="token punctuation">}</span>
+<span class="token operator">&lt;</span><span class="token operator">/</span>div<span class="token operator">></span></code></pre></div>
+<ul>
+<li><strong>왜 jsx는 삼항연산자를 써야 할까?</strong></li>
+</ul>
+<p>if문은 변수에 넣지 못하기 때문에 변수에 넣을 수 있는 삼항연산자를 쓰면 편리하다.</p>
+<h2></h2>
+<div class="gatsby-highlight" data-language="js"><pre class="language-js"><code class="language-js"><span class="token keyword">const</span> content <span class="token operator">=</span> posts<span class="token punctuation">.</span><span class="token function">map</span><span class="token punctuation">(</span><span class="token parameter">post</span><span class="token punctuation">)</span> <span class="token operator">=></span>
+    <span class="token operator">&lt;</span>div key<span class="token operator">=</span><span class="token punctuation">{</span>post<span class="token punctuation">.</span>id<span class="token punctuation">}</span><span class="token operator">></span>
+        <span class="token operator">&lt;</span>h3<span class="token operator">></span><span class="token punctuation">{</span>post<span class="token punctuation">.</span>title<span class="token punctuation">}</span><span class="token operator">&lt;</span><span class="token operator">/</span>h3<span class="token operator">></span>
+            <span class="token operator">&lt;</span>p<span class="token operator">></span><span class="token punctuation">{</span>post<span class="token punctuation">.</span>content<span class="token punctuation">}</span><span class="token operator">&lt;</span><span class="token operator">/</span>p<span class="token operator">></span>
+    <span class="token operator">&lt;</span><span class="token operator">/</span>div<span class="token operator">></span></code></pre></div>
+<ul>
+<li>React 에서 여러 개의 HTML 엘리먼트를 표시할 때는 <code class="language-text">map()</code>” 함수를 사용한다. <code class="language-text">map</code> 함수를 사용할 때는 반드시 <strong>“key” JSX 속성</strong>을 넣어야 합니다.</li>
+</ul>
+<p>“key” JSX 속성을 넣지 않으면 리스트의 각 항목에 key를 넣어야 한다는 경고가 표시됩니다</p>
+<h2></h2>
+<ul>
+<li>JSX에서 JavaScript를 쓰고자 한다면, 꼭 중괄호를 이용해야 한다.</li>
+</ul>
 <br>
 <blockquote>
 <h3>마무리 👀</h3>

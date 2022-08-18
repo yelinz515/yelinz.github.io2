@@ -1,5 +1,5 @@
 ---
-title: Section1 회고
+title: Section 1 회고
 date: "2022-07-20T23:41:32.169Z"
 category: blog
 ---

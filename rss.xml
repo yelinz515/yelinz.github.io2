@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 18 Aug 2022 07:32:00 GMT</lastBuildDate><item><title><![CDATA[Redux 시작하기]]></title><link>https://gatsbystarterblogsource.gatsbyjs.io/study_review/Redux/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/study_review/Redux/</guid><pubDate>Sat, 20 Aug 2022 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Section2 회고]]></title><description><![CDATA[목표 꾸준한 자기주도적 학습 고연봉 받는 개발자 T자로 커리어 관리 🚀 Keep: 만족스러운 부분, 계속 이어가면 좋을 부분 ✔️ Section1_Keep: 블로그 작성하기 ➡️ Section2_Keep 1 최근 Jekyll에서 Gatsby…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-08-18-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-08-18-post/</guid><pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;목표&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 18 Aug 2022 08:44:18 GMT</lastBuildDate><item><title><![CDATA[Redux 시작하기]]></title><link>https://gatsbystarterblogsource.gatsbyjs.io/study_review/Redux/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/study_review/Redux/</guid><pubDate>Sat, 20 Aug 2022 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[React State & Props]]></title><link>https://gatsbystarterblogsource.gatsbyjs.io/study_review/state&amp;props/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/study_review/state&amp;props/</guid><pubDate>Sat, 20 Aug 2022 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Section 2 회고]]></title><description><![CDATA[목표 꾸준한 자기주도적 학습 고연봉 받는 개발자 T자로 커리어 관리 🚀 Keep: 만족스러운 부분, 계속 이어가면 좋을 부분 ✔️ Section1_Keep: 블로그 작성하기 ➡️ Section2_Keep 1 최근 Jekyll에서 Gatsby…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-08-18-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-08-18-post/</guid><pubDate>Thu, 18 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;목표&lt;/h3&gt;
 &lt;details&gt;
 &lt;summary&gt;목표 리스트&lt;/summary&gt;
 &lt;div markdown=&quot;1&quot;&gt;       
@@ -21,15 +21,21 @@
 &lt;h3&gt;&lt;/h3&gt;
 &lt;p&gt;✔️ &lt;strong&gt;Keep 2: 자기주도적 학습&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;프로그래머 직군의 가장 큰 특성 중 하나는 ‘배움에 끝이 없다’라는 것이다. 매년 프레임워크나 새로운 언어체계등 새로운 기술들이 등장하고 업데이트 되는 개발자들의 직업환경에서, 기존의 개발업무와 동시에 전혀 다른 문법의 언어를 습득하려면 효율적인 학습을 해야한다.&lt;/p&gt;
-&lt;p&gt;이 부분에 있어서 나는 꾸준히 잘하고 있다고 생각한다. 수업 끝나고 복습하거나 새로운 지식을 공부하는데, 문제를 해결할 방법을 이해하려고 노력하고 있다. 앞으로의 학습 하는 데에 있어서 좋은 영향 주는 것을 알기 때문에 꾸준한 학습을 이어나가자.&lt;/p&gt;
+&lt;p&gt;이 부분에 있어서 나름 꾸준히 잘하고 있다고 생각한다. 지금은 몇 시간 공부하는지보다 매일 꾸준히 공부하고 있는지가 가장 중요한 것 같다. 수업 끝나고 복습하거나 새로운 지식을 공부하는데, 문제를 해결할 방법을 이해하려고 노력하고 있다. 앞으로의 학습 하는 데에 있어서 좋은 영향 주는 것을 알기 때문에 꾸준한 학습을 이어나가자.&lt;/p&gt;
 &lt;br&gt;
 &lt;h3&gt;&lt;strong&gt;Problem: 개선이 필요하다고 생각되는 부분&lt;/strong&gt;&lt;/h3&gt;
 &lt;hr&gt;
 &lt;p&gt;
-&lt;p&gt;✔️ &lt;strong&gt;Problem 1: 혼자 힘으로 해결하지 않고 질문하기&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;✔️ &lt;strong&gt;Problem 1: 커뮤니티에 질문하기&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;페어 프로그래밍을 하면서 어려운 문제에 직면했을 때 페어와 함께 해결하려고 노력했다. Section1에 비해 페어 프로그래밍을 어떻게 해야하는지에 대해 많이 익숙해졌고, 동기들과 소통할 공간도 많아져 자유롭게 질문할 수 있었다.&lt;/p&gt;
 &lt;p&gt;그럼에도 불구하고, Problem1에 적은 이유는 좀 더 적극적으로 커뮤니티를 활용해 질문해야겠다고 생각이 들었다.&lt;/p&gt;
 &lt;p&gt;앞으로 아고라 스테이츠나 디스코드를 통해 동료와 크루분들께 정리된 항목으로 질문하는 습관을 기르자.&lt;/p&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;p&gt;✔️ &lt;strong&gt;Problem 2: 스터디 참여하기&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;더 열심히 공부하기 위해 노션에 스터디가 열리면 꼭 참여해야겠다🤤 다른 사람들과 소통하면서 공부하며 더 좋은 실력을 갖는 것이 목표이다.&lt;/p&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;p&gt;✔️ &lt;strong&gt;Problem 3: 프로젝트 만들어보기&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;경험을 위해 작은 프로젝트부터 만들어봐야겠다. 자주 만들어보면 실력이 향상되어 있지 않을까 생각이 든다…&lt;/p&gt;
 &lt;br&gt;
 &lt;h3&gt;&lt;strong&gt;Try: Keep과 Problem을 기반으로 실천해 보고자 하는 것&lt;/strong&gt;&lt;/h3&gt;
 &lt;hr&gt;
@@ -47,7 +53,7 @@
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&quot;center&quot;&gt;🧐 &lt;strong&gt;Keep 1&lt;/strong&gt;&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;🧐 &lt;strong&gt;Keep, Problem&lt;/strong&gt;&lt;/th&gt;
 &lt;th align=&quot;center&quot;&gt;📌&lt;/th&gt;
 &lt;th align=&quot;center&quot;&gt;*&lt;/th&gt;
 &lt;/tr&gt;
@@ -58,12 +64,20 @@
 &lt;td align=&quot;center&quot;&gt;📝&lt;/td&gt;
 &lt;td align=&quot;center&quot;&gt;*&lt;/td&gt;
 &lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;프로젝트 만들어보기&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;🗝️&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;*&lt;/td&gt;
+&lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;h3&gt;&lt;/h3&gt;
 &lt;p&gt;🧐 &lt;strong&gt;Try 1:&lt;/strong&gt;
 사람들이 읽기에 지루한 글이라고 생각이 들었다. 그날 내가 공부한 내용을 정리하는 블로그를 주로 작성하기 때문에 특색이 없는 글이라 느껴진다.&lt;/p&gt;
 &lt;p&gt;개발하며 가진 고민을 주제로 해결하는 과정을 서론, 본론, 결론을 작성할 것이다. 같은 문제를 놓고도 사람들마다 고민과 해결 방법이 다르기 때문에 글 쓴 사람의 개성이 잘 드러날 수밖에 없다. 앞으로 블로그에 글을 올릴 때 책임감을 갖고 블로그를 통해 성장하자!&lt;/p&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;p&gt;🧐 &lt;strong&gt;Try 2:&lt;/strong&gt;
+지금까지 배웠던 내용을 복습하고, Redux를 공부한 다음 클론 코딩을 통해 내가 자주 사용했던 서비스들을 제작해보고, 코딩 실력도 비약적으로 상승했으면 좋겠다. 내가 원하는 웹사이트도 크게 제작해보고 더 좋은 실력을 가진 개발자가 되자!&lt;/p&gt;
 &lt;p&gt;⭐ 지금보다 많이 달라진 모습으로 &lt;code class=&quot;language-text&quot;&gt;Section3&lt;/code&gt; 회고를 작성하길 바란다.⭐&lt;/p&gt;</content:encoded></item><item><title><![CDATA[my-agora-states-server]]></title><description><![CDATA[오늘 과제의 핵심은 server에서 데이터를 가져와 client에서 그 데이터를 보여주는 것이라고 생각한다. server에서 데이터 가져오기 (fetch 사용) 처음 로딩화면을 실행하고, server…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-08-17-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-08-17-post/</guid><pubDate>Wed, 17 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;오늘 과제의 핵심은 server에서 데이터를 가져와 client에서 그 데이터를 보여주는 것이라고 생각한다.&lt;/p&gt;
 &lt;h3&gt;server에서 데이터 가져오기 (fetch 사용)&lt;/h3&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;  &lt;span class=&quot;token keyword&quot;&gt;const&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt; discussions &lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; setDiscussions &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;useState&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
@@ -1297,7 +1311,7 @@ ReactDOM&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span c
 &lt;h3&gt;마무리 👀&lt;/h3&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;React를 처음 배워보는데, html을 따로 작성하지 않아서 매우 편리했다.
-React에 익숙해지면 쉽게 웹사이트를 제작할 수 있을 것 같아서 좋았다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Unit3 회고]]></title><description><![CDATA[fetchAPI fetch API는 위와 같이, 특정 URL로부터 정보를 받아오는 역할 종합 퀴즈 2. ✅ 버튼에 비동기 이벤트를 추가하고 싶을 때…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-28-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-28-post.md/</guid><pubDate>Thu, 28 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h3&gt;fetchAPI&lt;/h3&gt;
+React에 익숙해지면 쉽게 웹사이트를 제작할 수 있을 것 같아서 좋았다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Unit 3 회고]]></title><description><![CDATA[fetchAPI fetch API는 위와 같이, 특정 URL로부터 정보를 받아오는 역할 종합 퀴즈 2. ✅ 버튼에 비동기 이벤트를 추가하고 싶을 때…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-28-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-28-post.md/</guid><pubDate>Thu, 28 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h3&gt;fetchAPI&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;fetch API는 위와 같이, 특정 URL로부터 정보를 받아오는 역할&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1777,7 +1791,7 @@ console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cl
 &lt;p&gt;✔️ 개념 활용 예시가 구체적이고 풍부했나요?&lt;/p&gt;
 &lt;p&gt;✔️ 잘 모르는 내용에 대해서 불명확하게 설명한 부분이 있었나요?&lt;/p&gt;
 &lt;p&gt;✔️ 정확한 CS 용어(ex. 변수를 만들어서 값을 넣어요. → 변수를 선언하고 값을 할당합니다. 등) 를 사용해서 답변했나요?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;👍👍👍 셀프 체크리스트를 참고해서 연습해보자!&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Section1 회고]]></title><description><![CDATA[목표 꾸준한 자기주도학습 고연봉 받는 개발자 T자로 커리어 관리 🚀 Keep: 만족스러운 부분, 계속 이어가면 좋을 부분 깃허브 블로그를 매일 작성하려고 노력했다. 게시물을 업로드하면 contribute…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-20-section1-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-20-section1-post.md/</guid><pubDate>Wed, 20 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h3&gt;목표&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;👍👍👍 셀프 체크리스트를 참고해서 연습해보자!&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Section 1 회고]]></title><description><![CDATA[목표 꾸준한 자기주도학습 고연봉 받는 개발자 T자로 커리어 관리 🚀 Keep: 만족스러운 부분, 계속 이어가면 좋을 부분 깃허브 블로그를 매일 작성하려고 노력했다. 게시물을 업로드하면 contribute…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-20-section1-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-20-section1-post.md/</guid><pubDate>Wed, 20 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h3&gt;목표&lt;/h3&gt;
 &lt;details&gt;
 &lt;summary&gt;목표 리스트&lt;/summary&gt;
 &lt;div markdown=&quot;1&quot;&gt;       

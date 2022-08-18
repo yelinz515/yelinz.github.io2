@@ -1,6 +1,6 @@
 ---
 title: "StatesAirline API Server"
-date: "2022-08-15"
+date: "2022-08-16"
 ---
 
 Express 프레임워크로 StatesAirline API Server 구현하는 과제를 해보았다.

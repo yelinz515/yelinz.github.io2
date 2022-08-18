@@ -112,7 +112,13 @@ function HelloWorld(){
 }
 ```
 
-위 코드를 보면 HelloWorld 함수에서 Hello 함수를 리턴하고 있다.
+* 위 코드를 보면 `HelloWorld` 함수에서 `Hello` 함수를 리턴하고 있다.
+
+React 엘리먼트가 JSX로 작성되면 **"대문자"**로 시작해야 한다. 소문자로 시작하게 되면 일반적인 HTML 엘리먼트로 인식을 하게 된다. 
+
+이렇게 대문자로 작성된 JSX 컴포넌트를 따로 사용자 정의 컴포넌트라고 부른다.
+
+##
 
 ```js
 import { App } from './App';
@@ -120,12 +126,40 @@ import { App } from './App';
 ReactDOM.render(<App />, document.getElementById('root'));
 ```
 
-위 코드는 index.js파일에서 App 컴포넌트를 root라는 id 값에 부착시킨다는 뜻이다.
+* 위 코드는 index.js파일에서 App 컴포넌트를 root라는 id 값에 부착시킨다는 뜻이다.
 
 즉, 위 코드를 실행하면 App.js가 실행될 것이다.
 
-  **왜 jsx는 삼항연산자를 써야 할까?**
-  if문은 변수에 넣지 못하기 때문에 변수에 넣을 수 있는 삼항연산자를 쓰면 편리하다.
+##
+
+```js
+<div>
+{
+    (1+1 === 2) ? (<p>정답</p>) : (<p>탈락</p>) 
+}
+</div>
+```
+
+* **왜 jsx는 삼항연산자를 써야 할까?**
+if문은 변수에 넣지 못하기 때문에 변수에 넣을 수 있는 삼항연산자를 쓰면 편리하다.
+
+##
+
+```js
+const content = posts.map(post) =>
+    <div key={post.id}>
+        <h3>{post.title}</h3>
+            <p>{post.content}</p>
+    </div>
+```
+
+* React 에서 여러 개의 HTML 엘리먼트를 표시할 때는 `map()`" 함수를 사용한다. `map` 함수를 사용할 때는 반드시 **"key" JSX 속성**을 넣어야 합니다.
+
+"key" JSX 속성을 넣지 않으면 리스트의 각 항목에 key를 넣어야 한다는 경고가 표시됩니다
+
+##
+
+* JSX에서 JavaScript를 쓰고자 한다면, 꼭 중괄호를 이용해야 한다.
 
 <br>
 

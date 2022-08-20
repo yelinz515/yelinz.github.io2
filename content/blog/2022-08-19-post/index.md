@@ -88,9 +88,54 @@ output = isOdd(-8);
 console.log(output); // --> false
 ```
 
+<br>
+
 #### 08_drop
+---
+
+```js
+function drop(n, arr) {
+    if(n === 0 || arr.length === 0){
+        return arr;
+    }
+    return drop(n-1, arr.slice(1))
+}
+
+let output = drop(2, [1, -2, 1, 3]);
+console.log(output); // --> [1, 3]
+
+output = drop(5, [1, -2, 1, 3]);
+console.log(output); // --> [ ]
+```
+
+`n`이 작아지면서 `arr`는 첫 번째 요소를 제외하고 자기 자신을 호출한다.
+
+<br>
 
 #### 09_take
+---
+
+```js
+function take(n, arr) {
+    // n이나 배열이 0인 경우 빈 배열을 리턴한다.
+    if(n === 0 || arr.length === 0){
+        return [ ];
+    }
+    return [arr[0]].concat(take(num-1, arr.slice(1)));
+}
+
+let output = take(2, [1, -2, 1, 3]);
+console.log(output); // --> [1, -2]
+
+output = take(5, [1, -2, 1, 3]);
+console.log(output); // --> [1, -2, 1, 3]
+```
+
+`[1].concat(take(1, [-2, 1, 3]))`, `[-2].concat(take(0, [1, 3]))`해서 `n`이 0이기 때문에 빈 배열을 리턴한다.
+
+다시 정리하면, `[-2].concat([ ]) = [-2]`, `[1].concat([-2]) = [1, -2]`해서 최종적으로 `[1, -2]`가 나온다.
+
+<br>
 
 #### 12_reverseArr
 ---
@@ -108,7 +153,11 @@ let output = reverseArr([1, 2, 3]);
 console.log(output); // --> [3, 2, 1]
 ```
 
-`[3], [1, 2]`, `[2],[1]`, `[1],[ ]`가 되고 `arr[arr.length -1]`와 연결하면 `[1]`, `[2, 1]`, `[3, 2, 1]`해서 최종적으로 `[3, 2, 1]`가 된다.
+`[3].concat(reverseArr([1,2]))`, `[2].concat(reverseArr([1]))`, `[1].concat(reverseArr([ ]))`가 되고 배열이 0인 경우 빈 배열을 리턴한다. 
+
+다시 정리하면, `[1].concat([ ]) = [1]`, `[2].concat([1]) = [2, 1]`, `[3].concat([2, 1]) = [ 3, 2, 1 ]`해서 최종적으로 `[3, 2, 1]`가 된다.
+
+<br>
 
 #### 15_flattenArr
 ---
@@ -122,7 +171,7 @@ function flattenArr(arr) {
 
     //배열 안이 배열인 경우 재귀 함수를 통해 1차원 배열로 변환한다.
     if(Array.isArray(arr[0])){
-        return flattenArr([...arr[0], flattenArr(arr.slice(1))])
+        return flattenArr([...arr[0], ...arr.slice(1)]); // 전개 연산자
     }
     return [arr[0]].concat(flattenArr(arr.slice(1)));
 }
@@ -134,9 +183,22 @@ output = flattenArr([[2, [[3]]], 4, [[[5]]]]);
 console.log(output); // --> [2, 3, 4, 5]
 ```
 
-~다시공부~
-`[1, [2, [3, 4], 5]`, `[2, [3, 4], 5]`, `[3, 4, [5]]`, `[5]`가 되고, 
+`flattenArr([1, [2, [3, 4], 5]])`, `[1].concat(flattenArr([2, [3, 4], 5]))`, `[2].concat(flattenArr([[3, 4], 5]))`,
+`flattenArr([3, 4, [5]])`, `[3].concat(flattenArr([4, [5]]))`, `[4].concat(flattenArr([5]))`, 
+`flattenArr([5, [ ]])`하고 배열이 0인 경우 빈 배열을 리턴한다.
 
-다시 정리하면 `[3, 4, 5]`, `[2, 3, 4, 5]`, `[1, 2, 3, 4, 5]`해서 최종적으로 `[1, 2, 3, 4, 5]`가 나온다.
+`[5]`, `[4].concat([5]) = [4, 5]`, `[3].concat([4, 5]) = [3, 4, 5]`, `[2].concat([3, 4, 5]) = [2 ,3, 4, 5]`, `[1].concat([2 ,3, 4, 5]) = [1, 2, 3, 4, 5]`해서 최종적으로 `[1, 2, 3, 4, 5]`가 나온다.
 
+###
+
+**참고)**
+
+**전개 연산자**`( ... )`를 사용하여 명시적으로 할당되지 않은 나머지 배열 값들을 사용할 수 있다.
+
+```js
+[a1, a2, ...rest_a] = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+console.log(a1); // 1
+console.log(a2); // 2
+console.log(rest_a); // [3, 4, 5, 6, 7, 8, 9]
+```
 

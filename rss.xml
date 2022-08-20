@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 20 Aug 2022 01:45:21 GMT</lastBuildDate><item><title><![CDATA[Redux 시작하기]]></title><link>https://gatsbystarterblogsource.gatsbyjs.io/study_review/Redux/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/study_review/Redux/</guid><pubDate>Sat, 20 Aug 2022 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[React State & Props]]></title><link>https://gatsbystarterblogsource.gatsbyjs.io/study_review/state&amp;props/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/study_review/state&amp;props/</guid><pubDate>Sat, 20 Aug 2022 00:00:00 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[재귀(recursion) 함수]]></title><description><![CDATA[재귀(recursion) : 원래의 자리로 되돌아가거나 되돌아옴. 예시 #…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-08-19-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-08-19-post/</guid><pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;재귀(recursion)&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 20 Aug 2022 06:06:42 GMT</lastBuildDate><item><title><![CDATA[[사용자 친화 웹] UI/UX]]></title><description><![CDATA[🎄 중요한 키워드 면접 단골 질문이다. 프론트엔드 개발자는 UX를 잘 알아야 한다. UI UX UI와 UX의 차이점 UI UI(User Interface, 사용자 인터페이스)는 사람들이 컴퓨터와 상호 작용하는 시스템을 의미한다. UX UX(User…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-08-23-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-08-23-post/</guid><pubDate>Tue, 23 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;🎄 중요한 키워드&lt;/h3&gt;
+&lt;hr&gt;
+&lt;p&gt;면접 단골 질문이다. 프론트엔드 개발자는 UX를 잘 알아야 한다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;UI&lt;/li&gt;
+&lt;li&gt;UX&lt;/li&gt;
+&lt;li&gt;UI와 UX의 차이점&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;UI&lt;/h4&gt;
+&lt;hr&gt;
+&lt;p&gt;UI(User Interface, 사용자 인터페이스)는 사람들이 컴퓨터와 상호 작용하는 시스템을 의미한다.&lt;/p&gt;
+&lt;h4&gt;UX&lt;/h4&gt;
+&lt;hr&gt;
+&lt;p&gt;UX(User Experience, 사용자 경험)의 사전적 의미는 사용자가 어떤 시스템, 제품, 서비스를 직•간접적으로 이용하면서 느끼고 생각하는 총체적 경험이다.&lt;/p&gt;
+&lt;h4&gt;UI와 UX의 관계&lt;/h4&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;img src=&quot;/1c592a942cb8ddc07f6bc8aeddcb38d0/uiux.png&quot; alt=&quot;Chinese Salty Egg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;UX는 UI를 포함합니다. 또한 좋은 UX가 좋은 UI를 의미하거나, 좋은 UI가 항상 좋은 UX를 보장하지는 않는다.&lt;/p&gt;
+&lt;br&gt;
+&lt;h3&gt;UI 디자인 패턴&lt;/h3&gt;
+&lt;h4&gt;모달 (Modal)&lt;/h4&gt;
+&lt;hr&gt;
+&lt;p&gt;모달은 기존에 이용하던 화면 위에 오버레이 되는 창을 뜻한다.&lt;/p&gt;
+&lt;h4&gt;캐러셀 (Carousel)&lt;/h4&gt;
+&lt;hr&gt;
+&lt;p&gt;캐러셀은 자동으로 돌아가거나, 사용자가 옆으로 넘겨야만 넘어가거나, 아니면 둘 중 선택할 수 있도록 만들 수 있다.&lt;/p&gt;
+&lt;h4&gt;GNB (Global Navigation Bar), LNB (Local Navigation Bar)&lt;/h4&gt;
+&lt;hr&gt;
+&lt;p&gt;탭 형식으로 최상단에 위치한 메뉴가 GNB, 마우스를 올렸을 때 드롭다운 형식으로 내려오는 서브 메뉴가 LNB이다.&lt;/p&gt;
+&lt;br&gt;
+&lt;h3&gt;UI 레이아웃&lt;/h3&gt;
+&lt;h4&gt;그리드 시스템 (Grid System)&lt;/h4&gt;
+&lt;hr&gt;
+&lt;p&gt;Column 사이의 공간으로, 콘텐츠를 구분하는데 도움을 준다. Gutter의 간격이 좁을수록 콘텐츠들이 연관성 있어 보이고, 넓을수록 각 콘텐츠가 독립적인 느낌을 준다.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/7a70d680b60fe624303ff1d58aeea1c4/gutter.png&quot; alt=&quot;Chinese Salty Egg&quot;&gt;&lt;/p&gt;
+&lt;br&gt;
+&lt;h3&gt;🎨 Figma&lt;/h3&gt;</content:encoded></item><item><title><![CDATA[재귀(Recursion) 함수]]></title><description><![CDATA[재귀(Recursion) : 원래의 자리로 되돌아가거나 되돌아옴. 예시 #…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-08-19-post/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-08-19-post/</guid><pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;재귀(Recursion)&lt;/h3&gt;
 &lt;p&gt;: 원래의 자리로 되돌아가거나 되돌아옴.&lt;/p&gt;
 &lt;br&gt;
 &lt;h4&gt;예시&lt;/h4&gt;
@@ -1487,14 +1523,13 @@ button&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cla
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;token number&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;setTimeout함수는 비동기 함수이다.&lt;/p&gt;
 &lt;p&gt;✅ setTimeout의 첫 번째 전달인자에 실행할 콜백함수를 넣는다.
-✅ setTimeout의 두 번째 전달인자에 값을 넣지 않아도 동작하지만, 따로 값을 주지 않았기 때문에 timer의 기능은 제한된다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[6주차] [JS/Node] 비동기 / 선배적 참견 시점 - 3일차]]></title><description><![CDATA[Callback Async 제어 다른 함수에 인수로 전달된 함수이며 외부 함수 내부에서 호출되어 일종의 루틴이나 작업을 완료 위 코드에서 객체 man은 name과 favorite 속성이 있고, favorite 속성은 함수 자료형이므로 favorite…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-27-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-27-post.md/</guid><pubDate>Wed, 27 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h3&gt;Callback&lt;/h3&gt;
+✅ setTimeout의 두 번째 전달인자에 값을 넣지 않아도 동작하지만, 따로 값을 주지 않았기 때문에 timer의 기능은 제한된다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[[6주차] [JS/Node] 비동기 / 선배적 참견 시점 - 3일차]]></title><description><![CDATA[Callback Async 제어 다른 함수에 인수로 전달된 함수이며 외부 함수 내부에서 호출되어 일종의 루틴이나 작업을 완료 Promise callback의 가독성을 높이기 위해 Promise 객체를 사용한다. Promise…]]></description><link>https://gatsbystarterblogsource.gatsbyjs.io/2022-07-27-post.md/</link><guid isPermaLink="false">https://gatsbystarterblogsource.gatsbyjs.io/2022-07-27-post.md/</guid><pubDate>Wed, 27 Jul 2022 23:41:32 GMT</pubDate><content:encoded>&lt;h3&gt;Callback&lt;/h3&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Async 제어&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;다른 함수에 인수로 전달된 함수이며 외부 함수 내부에서 호출되어 일종의 루틴이나 작업을 완료&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;위 코드에서 객체 man은 name과 favorite 속성이 있고, favorite 속성은 함수 자료형이므로 favorite() 메서드라고 부른다.&lt;/p&gt;
 &lt;h3&gt;Promise&lt;/h3&gt;
 &lt;p&gt;callback의 가독성을 높이기 위해 Promise 객체를 사용한다.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1510,7 +1545,7 @@ button&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span cla
 &lt;p&gt;그림을 보면 &lt;code class=&quot;language-text&quot;&gt;Promise.prototype.then()&lt;/code&gt;과 &lt;code class=&quot;language-text&quot;&gt;Promise.prototype.catch()&lt;/code&gt;가 있다.&lt;/p&gt;
 &lt;h4&gt;Promise.prototype.then()&lt;/h4&gt;
 &lt;blockquote&gt;
-&lt;p&gt;then() 메서드는 Promise (en-US)를 리턴하고 두 개의 콜백 함수를 인수로 받는다.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;then()&lt;/code&gt; 메서드는 Promise (en-US)를 리턴하고 두 개의 콜백 함수를 인수로 받는다.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Promise가 이행했을 때, 다른 하나는 거부했을 때를 위한 콜백 함수이다&lt;/strong&gt;&lt;/p&gt;
@@ -1524,7 +1559,7 @@ p&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&q
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h4&gt;Promise.prototype.catch()&lt;/h4&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Promise거부된 사례만 반환하고 처리&lt;/p&gt;
+&lt;p&gt;Promise 거부된 사례만 반환하고 처리&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;js&quot;&gt;&lt;pre class=&quot;language-js&quot;&gt;&lt;code class=&quot;language-js&quot;&gt;promise1&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;catch&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token parameter&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;=&gt;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
   console&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;error&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;error&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
@@ -1548,9 +1583,9 @@ p&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;&lt;span class=&q
   &lt;span class=&quot;token keyword&quot;&gt;await&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;sleep&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token number&quot;&gt;2000&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
   &lt;span class=&quot;token function&quot;&gt;resetTitle&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;function 키워드 앞에 async만 붙여주면 되고 비동기로 처리되는 부분 앞에 await만 붙여주면 된다.&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-text&quot;&gt;function&lt;/code&gt; 키워드 앞에 &lt;code class=&quot;language-text&quot;&gt;async&lt;/code&gt;만 붙여주면 되고 비동기로 처리되는 부분 앞에 &lt;code class=&quot;language-text&quot;&gt;await&lt;/code&gt;만 붙여주면 된다.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;다만, 몇 가지 주의할 점이 있다면&lt;/strong&gt;
-(1) await 뒷부분이 반드시 promise 를 반환해야 한다는 것과
+(1) &lt;code class=&quot;language-text&quot;&gt;await&lt;/code&gt; 뒷부분이 반드시 promise 를 반환해야 한다는 것과
 (2) async function 자체도 promise 를 반환한다는 것이다.&lt;/p&gt;
 &lt;br&gt;
 &lt;hr&gt;

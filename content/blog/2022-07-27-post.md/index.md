@@ -9,9 +9,6 @@ category: blog
 
 > 다른 함수에 인수로 전달된 함수이며 외부 함수 내부에서 호출되어 일종의 루틴이나 작업을 완료
 
-
-위 코드에서 객체 man은 name과 favorite 속성이 있고, favorite 속성은 함수 자료형이므로 favorite() 메서드라고 부른다.
-
 ### Promise
 
 callback의 가독성을 높이기 위해 Promise 객체를 사용한다.
@@ -31,7 +28,7 @@ callback의 가독성을 높이기 위해 Promise 객체를 사용한다.
 
 #### Promise.prototype.then()
 
-> then() 메서드는 Promise (en-US)를 리턴하고 두 개의 콜백 함수를 인수로 받는다.
+> `then()` 메서드는 Promise (en-US)를 리턴하고 두 개의 콜백 함수를 인수로 받는다.
 
 > **Promise가 이행했을 때, 다른 하나는 거부했을 때를 위한 콜백 함수이다**
 
@@ -47,7 +44,7 @@ p.then(function(value) {
 
 #### Promise.prototype.catch()
 
->  Promise거부된 사례만 반환하고 처리
+>  Promise 거부된 사례만 반환하고 처리
 
 ```js
 promise1.catch((error) => {
@@ -76,10 +73,10 @@ async function runAsync() {
 }
 ```
 
-function 키워드 앞에 async만 붙여주면 되고 비동기로 처리되는 부분 앞에 await만 붙여주면 된다.
+`function` 키워드 앞에 `async`만 붙여주면 되고 비동기로 처리되는 부분 앞에 `await`만 붙여주면 된다.
 
 **다만, 몇 가지 주의할 점이 있다면** 
-(1) await 뒷부분이 반드시 promise 를 반환해야 한다는 것과 
+(1) `await` 뒷부분이 반드시 promise 를 반환해야 한다는 것과 
 (2) async function 자체도 promise 를 반환한다는 것이다.
 
 <br>

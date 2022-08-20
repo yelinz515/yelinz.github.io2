@@ -1,9 +1,9 @@
 ---
-title: "재귀(recursion) 함수"
+title: "재귀(Recursion) 함수"
 date: "2022-08-19"
 ---
 
-### 재귀(recursion)
+### 재귀(Recursion)
 : 원래의 자리로 되돌아가거나 되돌아옴.
 
 <br>
